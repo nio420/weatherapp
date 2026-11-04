@@ -1,3 +1,4 @@
+import utils.session
 import requests
 
 api_key ='c74ba3502389b45512c3da13168ca086'
